@@ -141,6 +141,11 @@ input{display:none;
 .other-link:hover{background-color:white;
                               color:black;
 }
+.other-link:active{background-color:white;
+                              color:black;
+                              transition:all ;
+}
+
 
 .jacket{width:50%;}
 

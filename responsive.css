@@ -44,6 +44,8 @@
 }
 
 @media(max-width:500px){
+      
+  .top-wrapper{ background-size:contain;}
 
   .contens-title{ font-size:30px;}
 

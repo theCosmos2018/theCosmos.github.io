@@ -1,0 +1,74 @@
+@media(max-width:1000px){
+
+
+
+.header-icons{font-size:25px;
+      width:30px;}
+
+
+.header-right{display:none;}
+
+.menu-icon{display:block;}
+
+#in{display:block;
+}
+
+.menu-box{display:block;}
+
+#responsive-menu{
+
+  display:flex;
+  flex-direction: column;
+}
+
+#responsive-menu  .contents-link{
+  color:black;
+  line-height:50px;
+}
+
+
+
+.contents-title{font-size:40px;}
+
+.date{font-size:15px}
+
+.topicks{font-size:25px;}
+
+.other-link{font-size:20px}
+
+.artist-photo{width:80%;}
+
+.bio-txt{font-size:15px;
+            width:80%;}
+
+}
+
+@media(max-width:500px){
+
+  .contens-title{ font-size:30px;}
+
+  .topicks{font-size:20px;}
+
+  .live-information{ margin-bottom:50px;}
+
+  .date{font-size:15px;
+          margin-bottom:30px;
+  }
+
+  .bio-txt{ font-size:10px;}
+
+.lists h2{font-size:18px;}
+
+.pc-video{display:none}
+
+.smapho-video{display:inline-block;}
+
+.other-link{font-size:15px;
+                padding:20px;
+}
+
+
+
+
+  
+}
